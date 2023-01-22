@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <Arduino_FreeRTOS.h>
 #include <semphr.h> 
- #include <Adafruit_Sensor.h>
+#include <Adafruit_Sensor.h>
 
 #include <SPI.h>
 #include <Wire.h>
